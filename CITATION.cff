@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+type: software
+title: "ResoCharge: Ambient RF Energy Harvesting Research"
+abstract: "Comprehensive research and feasibility analysis of harvesting ambient electromagnetic energy from omnipresent RF sources (WiFi, cellular, radio, TV) for ultra-low-power IoT devices. Includes theoretical analysis, rectenna technology evaluation, market analysis, and Python simulation tools."
+authors:
+  - family-names: Shrestha
+    given-names: Bhim
+    orcid: "https://orcid.org/0009-0005-1496-2838"
+repository-code: "https://github.com/bhim-shrestha/resocha"
+url: "https://github.com/bhim-shrestha/resocha"
+license: MIT
+version: 1.0.0
+date-released: 2025-11-10
+keywords:
+  - rf-energy-harvesting
+  - wireless-power
+  - rectennas
+  - iot
+  - tesla
+  - ambient-energy
+  - electronics
+  - hardware
+  - energy-harvesting
+  - green-energy
+references:
+  - type: article
+    authors:
+      - family-names: Valenta
+        given-names: Christopher R.
+      - family-names: Durgin
+        given-names: Gregory D.
+    title: "Harvesting Wireless Power: Survey of Energy-Harvester Conversion Efficiency in Far-Field, Wireless Power Transfer Systems"
+    journal: "IEEE Microwave Magazine"
+    year: 2014
+    volume: 15
+    issue: 4
+    start: 108
+    end: 120
+    doi: "10.1109/MMM.2014.2309499"
+  - type: article
+    authors:
+      - family-names: Piñuela
+        given-names: Manuel
+      - family-names: Mitcheson
+        given-names: Paul D.
+      - family-names: Lucyszyn
+        given-names: Stepan
+    title: "Ambient RF Energy Harvesting in Urban and Semi-Urban Environments"
+    journal: "IEEE Transactions on Microwave Theory and Techniques"
+    year: 2013
+    volume: 61
+    issue: 7
+    start: 2715
+    end: 2726
+    doi: "10.1109/TMTT.2013.2262687"
+  - type: article
+    authors:
+      - family-names: Hagerty
+        given-names: Joseph A.
+      - family-names: Helmbrecht
+        given-names: F. B.
+      - family-names: McCalpin
+        given-names: W. H.
+      - family-names: Zane
+        given-names: Regan
+      - family-names: Popovic
+        given-names: Zoya B.
+    title: "Recycling Ambient Microwave Energy with Broad-Band Rectenna Arrays"
+    journal: "IEEE Transactions on Microwave Theory and Techniques"
+    year: 2004
+    volume: 52
+    issue: 3
+    start: 1014
+    end: 1024
+    doi: "10.1109/TMTT.2004.823585"
